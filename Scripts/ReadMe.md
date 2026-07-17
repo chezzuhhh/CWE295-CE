@@ -1,4 +1,4 @@
-CustomScripts/ contains a few scripts used for various purposes while discovering this vuln. These scripts even came in handy going beyond CWE-295, and leveraging it to discover other vulnerabilities, and I hope these tools also come in handy for anyone interested in recreating this PoC or analyzing similar IoT Network traffic.
+CustomScripts/ contains a few scripts used for various purposes while discovering this vuln and they come in handy especially when paired with other open source tools. These scripts even came in handy going beyond CWE-295, and leveraging it to discover other vulnerabilities within the network communications, and I hope these tools also come in handy for anyone interested in recreating this PoC or analyzing similar IoT Network traffic.
 
 
 ## mitmToJson.py
